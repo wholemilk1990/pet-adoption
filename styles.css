@@ -208,7 +208,7 @@ html {
 
 .list-of-pets {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(390px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
     column-gap: 34px;
     row-gap: 16px;
 }
@@ -216,7 +216,7 @@ html {
 .pet-card {
     overflow: hidden;
     display: grid;
-    grid-template-columns: 165px 1fr;
+    grid-template-columns: 120px 1fr;
     border-radius: 20px;
     border: 1px solid #F3F3F3;
     box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 0.08);
