@@ -6,6 +6,9 @@ html {
     background-color: white;
 }
 
+html {
+    scroll-behavior: smooth;
+}
 
 .top-section-wrapper {
     overflow: hidden;
